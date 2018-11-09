@@ -1,5 +1,4 @@
-Head, Heart, and Hands
-================================================================================
+# Head, Heart, and Hands
 
 My education has been unique.  Most people can say this for one reason or another, and of course they're right: everyone's experience is unique.  When I think about what made my education unique, all sorts of things come to mine (blacksmithing, writing my own textbooks, not learning how to read until 2nd grade), but one phrase guided many of these experiences.
 

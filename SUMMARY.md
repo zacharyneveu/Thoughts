@@ -1,4 +1,5 @@
+
 ## Part1
 
-- [Head_Heart_Hands.md](Part1/Head_Heart_Hands.md)
-- [Vax_Problem.md](Part1/Vax_Problem.md)
+- [Head, Heart, and Hands](Part1/Head_Heart_Hands.md)
+- [The Importance of Simplicity in Writing](Part1/Simple_Writing.md)
