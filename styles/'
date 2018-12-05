@@ -28,16 +28,9 @@
     
 }
 
-.book.font-family-0  h1 {
+.book.font-family-0  h1,h2,h3 {
 	font-family: "antroposfreefont";
 }
-.book.font-family-0  h2 {
-	font-family: "antroposfreefont";
-}
-.book.font-family-0  h3 {
-	font-family: "antroposfreefont";
-}
-
 
 .book.font-family-0 > .book-body {
 	font-family: "baar_antropos_aidfontregular";
