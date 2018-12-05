@@ -1,0 +1,41 @@
+@font-face {    
+    font-family: 'baar_antropos_aidfontregular';    
+    src: url('baar-antropos-aidfont_5413-webfont.woff2') format('woff2'),    
+         url('baar-antropos-aidfont_5413-webfont.woff') format('woff');    
+    font-weight: normal;    
+    font-style: normal;    
+     
+}    
+     
+     
+     
+     
+@font-face {    
+    font-family: 'baar_antropos_engschriftRg';    
+    src: url('baar_antropos_engschrift_regular-webfont.woff2') format('woff2'),    
+         url('baar_antropos_engschrift_regular-webfont.woff') format('woff');    
+    font-weight: normal;    
+    font-style: normal;    
+     
+} 
+
+@font-face {    
+    font-family: 'antroposfreefont';    
+    src: url('anthropos-webfont.woff2') format('woff2'),    
+         url('anthropos-webfont.woff') format('woff');    
+    font-weight: normal;    
+    font-style: normal;    
+    
+}
+
+h1, h2, h3 {
+	font-family: "antroposfreefont";
+}
+
+.book-body {
+	font-family: "baar_antropos_aidfontregular";
+}
+
+.summary {
+	font-family: "antroposfreefont";
+}
