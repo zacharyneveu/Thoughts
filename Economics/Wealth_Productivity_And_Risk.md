@@ -18,6 +18,13 @@
 	+ Some costs are sub-linear - more upfront capital reduces long term cost
 	+ Wealth spent on wants often recoverable compared to needs (i.e. you can sell a vacation home for what you bought it for, but not true with the pants you're wearing) 
 
+## Debt
++ Negative wealth inverts the growth as well
++ Just like wealth, a large debt is nearly impossible to erase
++ Generally, income is less bursty than needs, so harder to erase small debts. For exaple, if you break even at work, but then you have a health event, even if you're still hired, you could be thousands in debt, and need extra money from work now to cover the interest in order to get back to zero.
++ Debt for one person is profit for another. Because needs don't change, people in debt are not an efficient market and will often go with whatever predatory lender is quickest/easiest to access rather than what has the best rate.
++ The debt economy: lending has risk of not being paid back, but reward of being able to charge interest. Incentive is to lend as much as possible with the highest interest rate and lowest risk.
+
 ## Productivity
 
 + Productivity is bell-shaped

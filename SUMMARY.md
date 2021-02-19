@@ -1,9 +1,15 @@
 
-## Part 1
+## Economics
 
-- [Coop Gratitude](Part_1/Coop_Gratitude.md)
-- [Economics](Part_1/Economics.md)
-- [Head Heart Hands](Part_1/Head_Heart_Hands.md)
-- [Simple Writing](Part_1/Simple_Writing.md)
-- [Wealth Productivity And Risk](Part_1/Wealth_Productivity_And_Risk.md)
-- [Wealth Productivity And Risk Paper](Part_1/Wealth_Productivity_And_Risk_Paper.md)
+- [Wealth Productivity And Risk](Economics/Wealth_Productivity_And_Risk.md)
+- [Wealth Productivity And Risk Paper](Economics/Wealth_Productivity_And_Risk_Paper.md)
+
+## Education
+
+- [Coop Gratitude](Education/Coop_Gratitude.md)
+- [Head Heart Hands](Education/Head_Heart_Hands.md)
+- [Simple Writing](Education/Simple_Writing.md)
+
+## Politics
+
+- [Company Rights](Politics/Company_Rights.md)
