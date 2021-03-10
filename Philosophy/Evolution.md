@@ -1,0 +1,10 @@
+# Evolution
+
+Everyone has heard of evolution, and at first it is mind bending. How does one creature just become another creature? Did a dinosaur give birth to a chicken? Evolution has largely been taught by way of the very specific case of human evolution, however, and the larger implications are even more interesting.
+
+
+The beautiful part of evolution is its simplicity. At its very core, it is just the idea that things that currently exist tend to be durable because the fragile things broke long ago. The implication of this is that things that change will change to become more durable, or else will break. The entire universe is subject to this, living and non-living bits alike. What makes this process so interesting is that there are many ways to be durable. To avoid a scorching sun, fish swim deep under the ocean surface. Leopards sleep in the shade. Trees harness the sun's power and use it to grow. For every obstacle, there are a range of successful solutions, any of which is a "right choice". The implications of this on our lives is astounding. Language, culture, beauty, and many of the other behaviors and ideas that make us human have grown out of our particular case of evolution. In a drive to optimize the simplest of all problems, survival, we've created mountains of complexity that can seem completely separated from the original goal. 
+
+Evolution can have very hostile inter-personal implications. Racism, eugenics, colonialism and more have roots in thoughts of evolution. I think it's very important to remember for this reason that evolution is a much larger phenomenon. Just as evolution drives humans to adapt different strategies, and favors some over others, it is also selecting species, galaxies, and even what kind of particles make up the universe. At the end of the day, humans are infinitely similar to other humans. At the end of the day, we're going to need every strategy we've got to survive the larger issues and treating evolution as an inter-racial or inter-personal issue is incomplete.
+
+
