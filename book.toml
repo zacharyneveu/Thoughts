@@ -1,0 +1,6 @@
+[book]
+authors = ["Zach Neveu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Thoughts"
