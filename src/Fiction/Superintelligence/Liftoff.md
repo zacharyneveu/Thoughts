@@ -1,0 +1,7 @@
+With a satisfying click I connected my vest to the fridge. My breath caught in my throat as an icy chill spread across my back and neck. Looking down at my desk, I checked this latest item off my list. Next up was nutrients. I looked up at the Barkeep above my desk and cursed casually under my breath. Of course I'd forgotten the new bag of nutrients on the kitchen table. I was proud of the Barkeep, this little invention I'd created, but maybe the second model would need wheels to go fetch its own ingredients. With a tug I decoupled from the fridge and wiped up a spilled coolant drop off the pleather office chair. 
+
+I returned from the kitchen and unloaded the bottles onto my desk. The largest bottles consisted of liquid food - sugars and lipids. The vitamins came in smaller bottles, so I bought multiple bottles of each. I poured each bottle into the barkeep reservoirs, making sure to match each bottle up with the correct reservoir. The Barkeep shouldn't let me do anything stupid, but in the case of a bug there was a rather low chance that I would be around to fix it. Luckily I had recently filled the perscription reservoirs which made this task go a lot faster. Vitamins and nutrients were pretty easy, just pour them in. Perscriptions were a bit more tricky as they didn't always come in liquid form. With a grand sweep I knocked the empty bottles off my desk into the waiting trash can. Time to try this again.
+
+
+
+

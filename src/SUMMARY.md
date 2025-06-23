@@ -25,3 +25,6 @@
 
 # Ethics
 - [Human Centric AI](Ethics/Human-Centric-AI.md)
+
+# Plants
+- [Hydroponic Setup](Plants/HydroSetup.md)
